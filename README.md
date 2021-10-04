@@ -16,6 +16,4 @@ Go to [Horiseon](https://campe0n.github.io/Horiseon/)
 
 If you have any questions, you can reach me using these methods.
 
-Github: [campe0n]()
-
 Email: melvinrf@outlook.com
