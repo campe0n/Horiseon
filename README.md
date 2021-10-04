@@ -2,7 +2,7 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Screenshot of Horiseon](./images/ss.PNG)
+![Screenshot of Horiseon](./images/ss.png)
 
 # Description
 
